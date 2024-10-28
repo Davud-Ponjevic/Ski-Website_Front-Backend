@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\log20231120.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:log20231120.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\model\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:model\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|c:\\users\\davud\\onedrive - ipso! bildung\\lehrjahr 2\\semester 1\\module\\modul 295\\praxisarbeit\\praxisarbeit\\praxisarbeit\\migrations\\20231121163525_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA40D18-1722-4F09-9CF6-31E86D1A2D50}|Praxisarbeit.csproj|solutionrelative:migrations\\20231121163525_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162934_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162223_InitialCommit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 689,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "Model\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log20231120.txt",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\log20231120.txt",
+              "RelativeDocumentMoniker": "log20231120.txt",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\log20231120.txt",
+              "RelativeToolTip": "log20231120.txt",
+              "ViewState": "AQIAAJsAAAAAAAAAAABRwLIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-24T09:32:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-24T09:32:19.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-24T09:35:38.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Dto\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Dto\\RegistrationDto.cs",
+              "RelativeToolTip": "Dto\\RegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Service.cs",
+              "RelativeDocumentMoniker": "Model\\Service.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Service.cs",
+              "RelativeToolTip": "Model\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Controllers\\RegistrationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationsController.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Controllers\\RegistrationsController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20231121162223_InitialCommit.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162223_InitialCommit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162223_InitialCommit.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162223_InitialCommit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162223_InitialCommit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T16:22:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Priority.cs",
+              "RelativeDocumentMoniker": "Model\\Priority.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Model\\Priority.cs",
+              "RelativeToolTip": "Model\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20231121162934_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162934_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162934_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162934_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OneDrive\\Desktop\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121162934_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T16:29:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20231121163525_initial.cs",
+              "DocumentMoniker": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121163525_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20231121163525_initial.cs",
+              "ToolTip": "C:\\Users\\davud\\OneDrive - ipso! Bildung\\Lehrjahr 2\\Semester 1\\Module\\Modul 295\\Praxisarbeit\\Praxisarbeit\\Praxisarbeit\\Migrations\\20231121163525_initial.cs",
+              "RelativeToolTip": "Migrations\\20231121163525_initial.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:32:19.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 470,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
